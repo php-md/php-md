@@ -1,0 +1,14 @@
+{
+  "name": "php-md/php-md",
+  "description": "PHP MD is a very limited file-based database and a markdown string parser.",
+  "type": "library",
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Mauro Moreno",
+      "email": "moreno.mauro.emanuel@gmail.com"
+    }
+  ],
+  "require": {}
+}
