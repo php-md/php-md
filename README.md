@@ -1,5 +1,12 @@
 # PHP M.D.
 
+[![Build Status](https://scrutinizer-ci.com/g/php-md/php-md/badges/build.png?b=master)](https://scrutinizer-ci.com/g/php-md/php-md/build-status/master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/php-md/php-md/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/php-md/php-md/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/php-md/php-md/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/php-md/php-md/?branch=master)
+[![Latest Stable Version](https://poser.pugx.org/php-md/php-md/v/stable)](https://packagist.org/packages/php-md/php-md)
+[![Total Downloads](https://poser.pugx.org/php-md/php-md/downloads)](https://packagist.org/packages/php-md/php-md)
+[![License](https://poser.pugx.org/php-md/php-md/license)](https://packagist.org/packages/php-md/php-md)
+
 ## Symptoms
 
 * Non-developers patients should never be around code but maybe they are
